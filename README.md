@@ -1,7 +1,7 @@
 <!--My favourite header-->
-<img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
+<img src="https://github.com/junginlau/photoshub/blob/main/header.png"/>
 
-<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/junginlau/photoshub/main/gradient.svg" width="100%"/>
 
 
 <!--NewNanCity-->
@@ -35,7 +35,7 @@
 <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
 <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
-<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/junginlau/photoshub/main/gradient.svg" width="100%"/>
 
 <!--Spotify + Introduce-->
 <table align="center">
@@ -61,15 +61,15 @@
 <!-- GitHub Trophy -->
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-     <img src="https://github-profile-trophy.vercel.app?username=sasuke1003&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+     <img src="https://github-profile-trophy.vercel.app?username=junginlau&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
    </a> 
 </p>
 
 <!--Social methods-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://codepen.io/sasuke1003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sasuke1003" height="30" width="40" />
+  <a href="https://codepen.io/junginlau" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="junginlau" height="30" width="40" />
   </a>
   <a href="https://twitter.com/nagalkc1003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagalkc1003" height="30" width="40" />
@@ -122,14 +122,14 @@
 
 <!--GitHub Stats-->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=junginlau&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junginlau&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/junginlau/photoshub/main/gradient.svg" width="100%"/>
 
 <div align="center">
-<img height="100%" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
+<img height="100%" src="https://raw.githubusercontent.com/junginlau/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
 </div>
 <!--Youtube Music
 <p align="center">
